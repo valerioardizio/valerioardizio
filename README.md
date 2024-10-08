@@ -2,6 +2,10 @@
 
 - 📚 BSc in Mathematics @ RomaTre (final grade: 110/110 cum laude)
 - 👨🏽‍💻 Msc student in Computer science - Cybersecurity @ EPFL - ETHZ
+- 🤓 Passionate about:
+  - Cryptography (especially isogeny-based cryptography)
+  - Privacy preserving
+  - Number theory
 - 🔭 Currently in my last semester of classes at ETH Zürich, learning about:
   - Network security
   - Zero-knowledge proofs
