@@ -1,7 +1,7 @@
 ## Hi, my name is Valerio 👋
 
 - 📚 BSc in Mathematics @ RomaTre (final grade: 110/110 cum laude)
-- 👨🏽‍💻 Msc in Computer science - Cybersecurity @ EPFL - ETHZ
+- 👨🏽‍💻 MSc in Computer science - Cybersecurity @ EPFL - ETHZ
 - 📑 PhD student in Cryptography @ COSIC (KU Leuven)
 - 🤓 Research interests:
   - Isogeny-based cryptography
