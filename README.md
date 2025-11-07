@@ -1,19 +1,14 @@
 ## Hi, my name is Valerio 👋
 
 - 📚 BSc in Mathematics @ RomaTre (final grade: 110/110 cum laude)
-- 👨🏽‍💻 Msc student in Computer science - Cybersecurity @ EPFL - ETHZ
-- 🤓 Passionate about:
-  - Cryptography
-    - Especially isogeny-based cryptography, as I carried out a [research project](https://github.com/valerioardizio/research-project-beyond-sidh/blob/master/report.pdf) on the subject
-  - Privacy preserving techniques
-  - Number theory (in cryptography)
-- 🔭 Currently in my last semester of classes at ETH Zürich, learning about:
-  - Network security
+- 👨🏽‍💻 Msc in Computer science - Cybersecurity @ EPFL - ETHZ
+- 📑 PhD student in Cryptography @ COSIC (KU Leuven)
+- 🤓 Research interests:
+  - Isogeny-based cryptography
   - Zero-knowledge proofs
-  - Big Data
-- 📫 Reach out to me: send me an e-mail at
-  - valerio.ardizio@epfl.ch
-  - vardizio@student.ethz.ch
+  - Fully Homomorphic Encryption (FHE)
+  - Privacy preserving technologies
+- 📫 Reach out to me: send me an e-mail at `valerio.ardizio@kuleuven.be`
 - ⚡ Connect with me --> <a href="https://www.linkedin.com/in/valerio-ardizio?utm_source=website" target="blank"><img align="center" src="assets/linkedin_logo.svg" alt="" height="30" width="40" /></a>
 
 <!--
